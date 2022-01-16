@@ -2,8 +2,8 @@
 ###### Found in
 [Scientific Explanations](Scientific%20Explanations.md), [The Baloney Toolkit](The%20Baloney%20Toolkit.md)
 ###### Content
-[The 8 Fallacies](#The-8-Fallacies)
-[Distinguishing Science from Pseudoscience](#distinguishing-dcience-from-dseudoscience)
+* [The 8 Fallacies](#The-8-Fallacies)
+* [Distinguishing Science from Pseudoscience](#distinguishing-science-from-pseudoscience)
 ## The 8 Fallacies
 ### What is a Fallacy
 A fallacy is **flawed reasoning or logic**, **incorrect or improper use of the scientific method**, or a **deliberate act to misrepresent something**.
