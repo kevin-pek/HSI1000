@@ -1,9 +1,9 @@
 # Fallacies in the Name of Science
 ###### Found in
-[[HSI1000]], [[Scientific Explanations]], [[The Baloney Toolkit]]
+[Scientific Explanations](Scientific%20Explanations.md), [The Baloney Toolkit](The%20Baloney%20Toolkit.md)
 ###### Content
-[[#The 8 Fallacies]]
-[[#Distinguishing Science from Pseudoscience]]
+[The 8 Fallacies](#The-8-Fallacies)
+[Distinguishing Science from Pseudoscience](#distinguishing-dcience-from-dseudoscience)
 ## The 8 Fallacies
 ### What is a Fallacy
 A fallacy is **flawed reasoning or logic**, **incorrect or improper use of the scientific method**, or a **deliberate act to misrepresent something**.
@@ -16,7 +16,7 @@ The extraordinary claim is made that the patters were made by aliens or their sp
 However, what is purposefully disregarded are “tramlines”, which are either near or run through these patterns. These tramlines are indentations made by tractors as they travel through the crop fields. It has been clearly demonstrated that a hoaxer can simply walk down these tramlines, and with a few simple tools, create these circles quickly and easily.
 >By neglecting to mention the “tramlines”, and that it is easy for a people to construct these same patterns with a few simple tools, a false anomaly has been created, creating a "mystery" where there isn't one.
 #### 2. Questionable Arguments by Elimination
-Similar to [[The Baloney Toolkit#8 Is the claimant providing positive evidence]].
+Similar to [The Baloney Toolkit Rule 8](The%20Baloney%20Toolkit.md#8-is-the-claimant-providing-positive-evidence).
 This is when a claimant **considers evidence that disproves alternative explanations to be in support for their explanation**.
 ###### Extrasensory Perception (ESP)
 Often a strategy used to “prove” that someone can read another person’s mind is to simply show that their ability cannot be explained by random guessing, or luck.
@@ -36,7 +36,7 @@ This is an example of how a similar explanation is incorrectly used as "evidence
 #### 5. Untestable Explanations and Predictions
 Using an explanation that cannot be proven true or false as an explanation.
 Examples include using "Fate" as an explanation or conspiracy theories.
-Another example is seen in [[Scientific Explanations#Scientific Explanation]].
+Another example is seen in [Scientific Explanations](Scientific%20Explanations.md#Scientific-Explanation).
 ###### Conspiracy Theories
 Conspiracy theories can seem attractive and even plausible because they are immune to falsification. They can be circular in their “evidence” for their theory, like the typical 9-11 conspiracy theories described in our textbook.
 The lack of evidence is often used as an argument for conspiracy theories as they believe there has been a cover up, and any evidence against their theory is claimed to have been fabricated.
